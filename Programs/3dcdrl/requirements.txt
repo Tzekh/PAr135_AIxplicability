@@ -1,0 +1,16 @@
+omgifol==0.4.0
+opencv-python
+pyparsing
+python-dateutil
+pyzmq
+requests
+scipy
+six
+torch
+torchfile
+torchvision
+tornado
+tqdm
+visdom
+vizdoom
+websocket-client
